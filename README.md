@@ -1,9 +1,7 @@
+# Predicting Breast Cancer in Mammograms
 # AAI-521-Final-Project
 ### Authors: Dina Shalaby, Lishi Wang, Jeffrey Thomas
 ### Group Name : Group 2
-
-# Predicting Breast Cancer in Mammograms
-
 
 ## I. Problem Definition
 
